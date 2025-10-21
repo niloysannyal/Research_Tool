@@ -5,7 +5,7 @@ import langchain
 import streamlit as st
 from langchain_community.vectorstores import FAISS
 from langchain.chat_models import init_chat_model
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQAWithSourcesChain
 from langchain.document_loaders import UnstructuredURLLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
