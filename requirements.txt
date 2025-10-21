@@ -1,4 +1,5 @@
 langchain==0.3.27
+langchain-community
 python-dotenv==1.1.1
 streamlit==1.50.0
 unstructured==0.18.15
