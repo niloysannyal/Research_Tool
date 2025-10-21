@@ -1,0 +1,10 @@
+langchain==0.3.27
+python-dotenv==1.1.1
+streamlit==1.50.0
+unstructured==0.18.15
+faiss-cpu==1.12.0
+libmagic==1.0
+python-magic==0.4.27
+python-magic-bin==0.4.14
+transformers==4.41.0
+sentence-transformers==5.1.1
