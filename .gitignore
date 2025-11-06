@@ -62,6 +62,7 @@ dmypy.json
 *.swp
 *.bak
 *.old
+temp_auto_push.bat
 
 # ======================
 # System Files
@@ -74,7 +75,6 @@ desktop.ini
 # ======================
 # IDE / Editor configs
 # ======================
-.vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
@@ -127,3 +127,5 @@ db_faiss/
 *.parquet
 *.npy
 *.npz
+.gitignore
+temp_interactive_push.bat

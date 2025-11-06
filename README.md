@@ -3,6 +3,10 @@
 An intelligent **AI-powered research assistant** built with **LangChain**, **Streamlit**, **FAISS**, and **Hugging Face embeddings**.  
 It allows you to **input URLs**, automatically **scrape and chunk their content**, **embed** the text for retrieval, and then **ask natural language questions** — getting answers backed by source references.
 
+<img width="1906" height="1068" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/8ee14863-eab3-45ba-bab2-ca82755d4331" />
+
+<img width="1919" height="1073" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/1f0a045a-e3ff-4728-8809-4472e7120b9a" />
+
 ---
 
 ## 🚀 Features
